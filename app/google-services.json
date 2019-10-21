@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "848435802292",
+    "firebase_url": "https://rumah-sakit-terdekat-c745d.firebaseio.com",
+    "project_id": "rumah-sakit-terdekat-c745d",
+    "storage_bucket": "rumah-sakit-terdekat-c745d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848435802292:android:fb2579ee9aaad3c72427e1",
+        "android_client_info": {
+          "package_name": "com.example.rumahsakitterdekat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848435802292-mbrmcdjlrv574raigr9nf5vu60nr0sh1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rumahsakitterdekat",
+            "certificate_hash": "15a54af6b4f458e962becb960c2ed3889e541818"
+          }
+        },
+        {
+          "client_id": "848435802292-8qsfts5oojn7jsqbdcie4bkti0207q2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyyOq_dcuGr2-56JDrPh6BUVMnCMNCG5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848435802292-8qsfts5oojn7jsqbdcie4bkti0207q2k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
